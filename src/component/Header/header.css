@@ -1,0 +1,123 @@
+.header-parent{
+
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+}
+
+.Header-image{
+    position: absolute;
+    /* background-color: blue; */
+    z-index: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85%;
+    width: 85%;
+}
+
+.Header-image-1{
+    border-radius: 20px;
+    box-shadow: 1px 0px 10px 15px rgba(84, 88, 88, 0.591) ;
+    
+}
+
+.Header-image-2{
+    
+    width: 50%;
+    height: 90%; 
+    margin-bottom: 100px !important;
+
+    margin:  60px;
+    margin-top: 100px;
+    /* z-index: -1; */
+    border-radius: 100px;
+    box-shadow: 1px 0px 10px 15px rgba(84, 88, 88, 0.591),1px 0px 10px 15px rgba(149, 149, 149, 0.591) ;
+    
+}
+
+.portfolio-header{
+
+     scroll-snap-align:start;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+     width: 100%;
+     height: 80px;
+    background-color: rgba(91, 90, 90, 0.77);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 5;
+}
+
+.header-mobEmail{
+    font-size: large;
+}
+
+.header-options{
+    cursor: pointer;
+    height: 30px;
+    width:max-content;
+    background-color: rgb(255, 0, 0);
+    
+    margin-right: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid rgb(65, 59, 59);
+   padding: 5px;
+   padding-top: 7px;
+   overflow: hidden;
+   box-shadow: 1px 2px 10px 10px rgba(58, 176, 70, 0.747) ;
+}
+
+
+.option-list{
+    position: relative;
+    z-index: 2;
+    list-style:none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: right;
+    height: 70vh;
+    width: 300px;
+    background-color: rgb(142, 142, 156);
+   
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+    font-family: cursive;
+    font-size: larger;
+    box-shadow: -5px 7px 10px 1px rgba(255, 249, 138, 0.747) ;
+ 
+}
+
+.option-list>a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    width: 60%;
+    height:10%;
+    background-color: rgb(129, 232, 211);
+    border-radius: 20px;
+    box-shadow: 5px 7px 10px 1px rgba(39, 39, 37, 0.747) ;
+}
+
+.option-list>a:hover{
+    background-color: rgba(212, 107, 107, 0.717);
+}
+
+.option-list>li{
+
+cursor: pointer;
+}

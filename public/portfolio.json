@@ -1,0 +1,62 @@
+[
+
+{    "id":  1 ,    
+     "name":"LeetCode",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327430547_3336647586586712_4534487064163958043_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=zABnV-s5NNEAX9hVj7v&_nc_ht=scontent.flko2-1.fna&oh=00_AfBauZPUYhkSJQlztN2lg1PFojd16JCcnNZFygQOwka4FQ&oe=63D7AED2",
+     "descr":"i have coded at LeetCode:"
+},
+
+{    "id": 2  ,
+     "name":"HTML/CSS/javaScript",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327456900_1835833156776163_3065465899343548159_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=DOo6OBK8rx8AX-ELsZt&_nc_ht=scontent.flko2-1.fna&oh=00_AfCWwXINeN9dnddRCSmQmE7bayM3vwYFDjh9EG6XWFeQdQ&oe=63D88EE8",
+     "descr":"i have developed some ui application with ui:"
+},
+
+{    "id":  3 ,
+     "name":"React",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327570846_1247417459174768_7882371758224084106_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=kv-Zc8eSnO4AX9EWDaD&tn=Fjjj-xUSye-vkQiU&_nc_ht=scontent.flko2-1.fna&oh=00_AfA8jvVL24s0SeLu7jleJdfpif1ln6llAZMrtfF02glnsA&oe=63D7474B",
+     "descr":"i have developed some project using React:"
+},
+
+{    "id":  4 ,
+     "name":"TalwindCss",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327560816_718563696552121_2463303508789655024_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=kXX23RMpJhgAX_52Kws&_nc_oc=AQknBKGSQtDwTaVOo1BXAjuyrnY12o7UapGHXZzE0vR49PAIVtGQFnhLWPFcl7b6XE2hlh0c6t9b1SgAG9hXJ384&_nc_ht=scontent.flko2-1.fna&oh=00_AfCCZgHE2Rdbm2uEICBHR90jFovsjcBtQOb4dRzz9UAy8w&oe=63D74AE5",
+     "descr":"i learned talwind css and build few project :"
+},
+
+{    "id": 5  ,
+     "name":"Firebase",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327345187_907756333609727_2127684907983745292_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=KPWcy8qHZLwAX81I0OC&_nc_ht=scontent.flko2-1.fna&oh=00_AfA5GsaidAsmn-lNJKlj2qo8mGDWVFlnUMAudAo__Jk8YA&oe=63D77D14",
+     "descr":"i have made so many project and used firebase for backend:"
+},
+
+{    "id": 6  ,
+     "name":"Materia; UI",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327590104_581407810501658_3921475467079465958_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=GtG38mADYfUAX8gTMp9&_nc_ht=scontent.flko2-1.fna&oh=00_AfB_e0Oki3Iro3z07PrBkQn1lQw_ADqBjGB6InCYYjpKuw&oe=63D7D4F7",
+     "descr":"i used material ui in some project it is very fancy:"
+},
+
+
+{    "id":   7,
+     "name":"C",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327547794_1558824964627664_7285801201344610056_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=6RvXNIgLYnUAX9EGybA&tn=Fjjj-xUSye-vkQiU&_nc_ht=scontent.flko2-1.fna&oh=00_AfBGeAk1RMLsgcZ_uqEekdHeXpMa3O30Vw2v56OK4WfgtQ&oe=63D790DC",
+     "descr":"this one is my first programming language and i used it to code some easy problems:"
+},
+
+
+{    "id":  8 ,
+     "name":"Cpp",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327344074_1172844193365156_1457718737118064217_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=ejqe3jKD_6MAX9xWhLv&_nc_ht=scontent.flko2-1.fna&oh=00_AfAfYK1pfV9KAHEITMvEo_ng5vpoQCV0KHV8G2NlxglOiA&oe=63D7FEEA",
+     "descr":"cpp i used for STL library for codding:"
+},
+
+
+{    "id":  9 ,
+     "name":"Java",
+     "image":"https://scontent.flko2-1.fna.fbcdn.net/v/t39.30808-6/327455420_2221276314747168_3751348986015428380_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=4UMLngdCOEIAX-_ko1y&tn=Fjjj-xUSye-vkQiU&_nc_ht=scontent.flko2-1.fna&oh=00_AfAQaRp5eYNQYjdSLGdmX9CRlFGZr87UKfeaUUe9dKYpIw&oe=63D6D661",
+     "descr":"java i used for understand OPPS concept and some STL library for codding:"
+}
+
+
+
+]
