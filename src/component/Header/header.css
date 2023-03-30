@@ -15,27 +15,45 @@
     justify-content: space-around;
     align-items: center;
     height: 85%;
-    width: 85%;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
 }
 
 .Header-image-1{
     border-radius: 20px;
     box-shadow: 1px 0px 10px 15px rgba(84, 88, 88, 0.591) ;
-    
+    transition: height 1s ;
+}
+
+
+.header-mobEmail{
+    width: 100px;
+}
+
+
+
+.Header-image-1:hover{
+    box-shadow: 1px 0px 10px 15px rgba(180, 105, 93, 0.536);
+    height: 65%; 
+    cursor: pointer;
 }
 
 .Header-image-2{
-    
-    width: 50%;
     height: 90%; 
     margin-bottom: 100px !important;
-
     margin:  60px;
     margin-top: 100px;
-    /* z-index: -1; */
     border-radius: 100px;
-    box-shadow: 1px 0px 10px 15px rgba(84, 88, 88, 0.591),1px 0px 10px 15px rgba(149, 149, 149, 0.591) ;
-    
+    box-shadow: 1px 0px 10px 15px rgba(128, 97, 81, 0.591),1px 0px 10px 15px rgba(149, 149, 149, 0.591) ;
+    transition: height 1s,transform 2s ;
+    cursor: pointer;
+}
+
+.Header-image-2:hover{
+    box-shadow: 1px 0px 10px 15px rgba(180, 105, 93, 0.536);
+    height: 82%; 
+    transform: rotate(360deg);
 }
 
 .portfolio-header{
@@ -98,7 +116,6 @@
     font-family: cursive;
     font-size: larger;
     box-shadow: -5px 7px 10px 1px rgba(255, 249, 138, 0.747) ;
- 
 }
 
 .option-list>a{
@@ -121,3 +138,4 @@
 
 cursor: pointer;
 }
+

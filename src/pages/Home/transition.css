@@ -1,0 +1,24 @@
+.transition{
+     
+     width: 90%;
+     height: 70vh;
+     margin: auto;
+     margin-top: 100px;
+     background-color: rgb(88, 86, 86);
+}
+
+.t-1{
+     
+     width: 40%;
+     height: 30%;
+     background-color: aqua;
+     transition: width 2s,height 2s;  
+     transition: transform 2s;
+}
+
+.t-1:hover{
+     width: 70%;
+     height: 50%;
+     transform: rotate(180deg);
+
+}

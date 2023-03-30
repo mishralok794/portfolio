@@ -16,9 +16,9 @@ function Header() {
 
 
         <h2>Welcome KRISHNAAAA GROUP Ltd.</h2>
-        <div>
-          <samp className='header-mobEmail'>MOB</samp>
-          <samp className='header-mobEmail'>E-Mail</samp>
+        <div className='contactNo'>
+          <samp className='header-mobEmail'>MOB:xxxxxxx009&nbsp;&nbsp;</samp>
+          <samp className='header-mobEmail'>E-Mail:mishralok794@gmail.com</samp>
         </div>
 
 
